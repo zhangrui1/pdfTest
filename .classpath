@@ -8,7 +8,6 @@
 	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
 	<classpathentry kind="src" path="WEB-INF/src"/>
 	<classpathentry kind="src" output="work" path="work"/>
-	<classpathentry kind="lib" path="C:/Users/維瑞/Downloads/itextpdf-5.5.9.jar"/>
 	<classpathentry kind="lib" path="D:/Mydevelop/pleiades/tomcat/7/lib/itextpdf-5.5.9.jar"/>
 	<classpathentry kind="output" path="WEB-INF/classes"/>
 </classpath>
